@@ -2,18 +2,6 @@
 
 Welcome to FOREVER, an e-commerce platform designed for seamless online shopping experiences. This repository contains the complete codebase for the FOREVER website, including user interfaces, product listings, secure authentication, and payment integration with Stripe.
 
-## live Links
-
-Main Website : https://forever-client-virid.vercel.app/ 
-
-Admin panel : https://forever-admin-bay.vercel.app/
-
-
-
-## Working Video
-
-https://youtu.be/4HUpnu29ZsI?si=Mil9e_kHno2oM1K8
-
 
 ## Photos
 
